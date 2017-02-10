@@ -1,2 +1,2 @@
 # usada
-cpmpra y venta ropa usada
+compra y venta ropa usada
