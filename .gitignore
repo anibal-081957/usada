@@ -1,0 +1,4 @@
+node_modules/
+.idea/
+hello-mongoose/
+*.txt

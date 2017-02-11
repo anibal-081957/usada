@@ -1,0 +1,13 @@
+extends layout
+
+block content
+    h3 Registro de usuario
+    #caja.sign
+        form(action="/reg" method="post")
+            label E-Mail:
+                input(type="email" name="email" autofocus required)
+                label Password:
+                input(type="password" name="password" required)
+                label Repetir:
+                input(type="password" name="repetir")
+                button(type="submit") Enviar
